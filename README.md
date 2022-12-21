@@ -1,3 +1,3 @@
 # portfolio-Alise
 task rss school
-https://flyether.io/portfolio-Alise
+https://flyether.github.io/portfolio-Alise
