@@ -1,4 +1,4 @@
 # portfolio-Alise
 task rss school
 
-https://rolling-scopes-school.github.io/portfolio-Alise
+https://flyether.github.io/portfolio-Alise
